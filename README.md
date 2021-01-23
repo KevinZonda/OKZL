@@ -5,6 +5,8 @@
 ## LICENSE List
 
 - For repositories & projects
-  - [OKZPL - Open KevinZonda Programme License](./okzpl/)
+  - [OKZPL - Open KevinZonda Programme License](./okzpl/) derived from [MIT License](https://opensource.org/licenses/MIT)
 - For documents
   - [OKZDL - Open KevinZonda Document License](./okzdl/)
+- For information
+  - [OKZIL - Open KevinZonda Information License](./okzil/) derived from [Open Government License v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)
