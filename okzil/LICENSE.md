@@ -28,6 +28,8 @@ If the Information Provider does not provide a specific attribution statement, y
 
 - Contains information licensed under the Open KevinZonda Information Licence v1.0.
 
+If you are using Information commercially, you should ask the Information Provider for a new license.
+
 If you are using Information from several Information Providers and listing multiple attributions is not practical in your product or application, you may include a URI or hyperlink to a resource that contains the required attribution statements.
 
 These are important conditions of this licence and if you fail to comply with them the rights granted to you under this licence, or any similar licence granted by the Licensor, will end automatically.
