@@ -16,7 +16,7 @@ This licence does not affect your freedom under fair dealing or fair use or any 
 
 - copy, publish, distribute and transmit the Information;
 - adapt the Information;
-- exploit the Information non-commercially, for example, by combining it with other Information, or by including it in your own product or application.
+- exploit the Information non-commercially, or commercially, for example, by combining it with other Information, or by including it in your own product or application.
 
 <img width="30" height="30" align="left" style="float: left; margin: 0 10px 0 0;" alt="Musy" src="../img/icon/warn.png">
 
@@ -28,7 +28,7 @@ If the Information Provider does not provide a specific attribution statement, y
 
 - Contains information licensed under the Open KevinZonda Information Licence v1.0.
 
-If you are using Information commercially, you should ask the Information Provider for a new license.
+If you are using Information commercially, you should ask the Information Provider for a new sublicense.
 
 If you are using Information from several Information Providers and listing multiple attributions is not practical in your product or application, you may include a URI or hyperlink to a resource that contains the required attribution statements.
 
