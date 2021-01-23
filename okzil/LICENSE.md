@@ -78,6 +78,6 @@ In this licence, the terms below have the following meanings:
 
 ## About the Open KevinZonda Information Licence
 
-This license is a license derived from [Open Government License v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).
+This is a license derived from [Open Government License v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).
 
 This is version 1.0 of the Open KevinZonda Information Licence. The license provider may, from time to time, issue new versions of the Open KevinZonda Information Licence. If you are already using Information under a previous version of the Open KevinZonda Information Licence, the terms of that licence will continue to apply.
