@@ -62,7 +62,6 @@ The Information Provider and/or Licensor are not liable for any errors or omissi
 ## Governing Law
 
 This licence is governed by the laws of the jurisdiction in which the Information Provider has its principal place of business, unless otherwise specified by the Information Provider.
-Definitions
 
 ## Definition
 
