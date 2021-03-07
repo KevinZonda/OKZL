@@ -71,7 +71,7 @@ In this licence, the terms below have the following meanings:
 
 'Information Provider' means the person or organisation providing the Information under this licence.
 
-'Licensor' means any Information Provider which has the authority to offer Information under the terms of this licence or the Keeper of Public Records, who has the authority to offer Information subject to Crown copyright and Crown database rights and Information subject to copyright and database right that has been assigned to or acquired by the Crown, under the terms of this licence.
+'Licensor' means any Information Provider which has the authority to offer Information under the terms of this licence.
 
 'Use' means doing any act which is restricted by copyright or database right, whether in the original medium or in any other medium, and includes without limitation distributing, copying, adapting, modifying as may be technically necessary to use it in a different mode or format.
 
