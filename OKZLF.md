@@ -7,9 +7,9 @@
 
 ## Background
 
-In 21 century, the world is changing. Considering the increasing of copyright awareness, the need of having a better way to protect the rights of the authors and the users of the software is quick climbing.
+In 21 century, the world is changing. Considering the increasing of copyright awareness, the need of having a better way to protect the rights of the authors and the users of the software and information is quick climbing.
 
-To handle this situation, the Open KevinZonda License Framework is developed.
+To face this situation, the Open KevinZonda License Framework is developed.
 
 ## Structure
 

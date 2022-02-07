@@ -1,10 +1,10 @@
 <img width="150" height="75" align="left" style="float: left; margin: 0 10px 0 0;" alt="OKZL logo" src="./img/logo/OKZL.png">
 
-# OKZLC - Open KevinZonda License Collections
+# OKZL - Open KevinZonda License
 
 ## LICENSE Collection List
 
-- OKZLF - Open KevinZonda License Framework
+- [OKZLF - Open KevinZonda License Framework](OKZLF.md)
   - OKZML - Open KevinZonda Main License
     - For repositories & projects
       - [OKZPL - Open KevinZonda Programme License](./okzml/okzpl/) derived from [MIT License](https://opensource.org/licenses/MIT)
