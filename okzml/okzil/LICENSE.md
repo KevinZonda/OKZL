@@ -10,7 +10,7 @@ The Licensor grants you a worldwide, royalty-free, perpetual, non-exclusive lice
 
 This licence does not affect your freedom under fair dealing or fair use or any other copyright or database right exceptions and limitations.
 
-<img width="30" height="30" align="left" style="float: left; margin: 0 10px 0 0;" alt="Free to use" src="../img/icon/allowed.png">
+<img width="30" height="30" align="left" style="float: left; margin: 0 10px 0 0;" alt="Free to use" src="img/icon/allowed.png">
 
 ## You are free to:
 
@@ -18,7 +18,7 @@ This licence does not affect your freedom under fair dealing or fair use or any 
 - adapt the Information;
 - exploit the Information non-commercially, or commercially, for example, by combining it with other Information, or by including it in your own product or application.
 
-<img width="30" height="30" align="left" style="float: left; margin: 0 10px 0 0;" alt="Musy" src="../img/icon/warn.png">
+<img width="30" height="30" align="left" style="float: left; margin: 0 10px 0 0;" alt="Musy" src="img/icon/warn.png">
 
 ## You must (where you do any of the above):
 
@@ -34,7 +34,7 @@ If you are using Information from several Information Providers and listing mult
 
 These are important conditions of this licence and if you fail to comply with them the rights granted to you under this licence, or any similar licence granted by the Licensor, will end automatically.
 
-<img width="30" height="30" align="left" style="float: left; margin: 0 10px 0 0;" alt="Exemptions" src="../img/icon/disallowed.png">
+<img width="30" height="30" align="left" style="float: left; margin: 0 10px 0 0;" alt="Exemptions" src="img/icon/disallowed.png">
 
 ## Exemptions
 
