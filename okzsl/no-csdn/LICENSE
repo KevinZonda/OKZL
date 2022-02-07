@@ -3,15 +3,24 @@ No CSDN License - Open KevinZonda Sub License
 Copyright (c) <YEAR> <COPYRIGHT HOLDER>
 
 Permission is hereby restricted, distributing the copy of this software and
-associated documentation files (the "Software") through any domain which is
+associated documentation files (the "Software") or material expressly made
+available under this licence (the "Information") through any domain which is
 related to Chinese Software Developer Network (the "CSDN"), including but not
-limited to csdn.net (CSDN's main domain) and *.csdn.net (CSDN's sub domain)
-is not allowed.
+limited to csdn.net (CSDN's main domain) and *.csdn.net (CSDN's sub domain,
+including blog.csdn.net) is not allowed.
+
+If the person or organisation providing the Information or Software under this
+licence does not provide a specific attribution statement, any copy and inheritance
+should be licensed under the same No CSDN License - Open KevinZonda Sub License.
+
+And to permit persons to whom the Software and Information is furnished to do so,
+subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+copies or substantial portions of the Software and Information.
+
 
 THIS IS A SUB LICENSE OPERATED UNDER OKZLF (OPEN KEVINZONDA LICENSE FRAMEWORK),
-TO FIND MORE INFORMATION, VISIT https://github.com/KevinZonda/OKZL/blob/main/OKZLF.md.
+FOR FURTHER INFORMATION, VISIT https://github.com/KevinZonda/OKZL/blob/main/OKZLF.md.
 
 IF THERE IS CONFLICT WITH MAIN LICENSE, OBEY THE MAIN LICENSE.
